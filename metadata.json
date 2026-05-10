@@ -1,0 +1,6 @@
+{
+  "name": "KB-Chat: AI Knowledge Bot",
+  "description": "An AI-powered chatbot that can be trained on Kaggle datasets to provide accurate, context-aware answers from a custom knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
